@@ -8,7 +8,9 @@
 ---
 
 ## ⚡ MDSYA-SEC  
-file:///C:/Users/ACER/Downloads/deepseek_svg_20260907_073c49.svg
+<p align="center">
+  <img src="https://github.com/mhmmsdyamil29-del/mhmmsdyamil29-del/blob/main/terminal-pro.svg?raw=true" width="100%" />
+</p>
 ---
 
 ## 🚀 MDSYA-SEC  
@@ -36,3 +38,4 @@ file:///C:/Users/ACER/Downloads/deepseek_svg_20260907_073c49.svg
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmmsdyamil29-del&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=00FF00&icon_color=00FF00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmsdyamil29-del&layout=compact&theme=dark&bg_color=0A0A0A&title_color=00FF00)
+
