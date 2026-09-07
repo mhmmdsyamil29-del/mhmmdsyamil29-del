@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/mhmmsdyamil29-del/mhmmsdyamil29-del/blob/main/deepseek_svg_20260907_073c49.svg?raw=true" width="100%" />
-</p><img width="1000" height="380" alt="deepseek_svg_20260907_073c49" src="https://github.com/user-attachments/assets/3d1705a8-dcab-41bf-9d11-0b37b86f0c1f" />
-
+<img width="1000" height="380" alt="mdsya_terminal_banner_fixed (1)" src="https://github.com/user-attachments/assets/46bdf2ce-822d-42fd-b0fd-20d3bf26909b" />
 
 ---
 
