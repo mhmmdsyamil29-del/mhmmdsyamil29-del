@@ -9,7 +9,245 @@
 ---
 
 ## ⚡ MDSYA-SEC  
-deepseek_svg_20260907_073c49.svg
+<svg width="1000" height="380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#0d0d0d;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#080808;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#030303;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glowing Effects -->
+    <filter id="ultraGlow">
+      <feGaussianBlur stdDeviation="8" result="blur1"/>
+      <feGaussianBlur stdDeviation="15" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="neonPulse">
+      <feGaussianBlur stdDeviation="4" result="blur">
+        <animate attributeName="stdDeviation" values="4;10;4" dur="2s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="4" height="4">
+      <rect width="4" height="2" fill="#000000" opacity="0.15"/>
+    </pattern>
+    
+    <!-- Matrix Rain Pattern -->
+    <pattern id="matrixRain" patternUnits="userSpaceOnUse" width="60" height="20">
+      <text x="0" y="12" font-family="monospace" font-size="8" fill="#00FF00" opacity="0.03">01</text>
+      <text x="30" y="18" font-family="monospace" font-size="8" fill="#00FF00" opacity="0.02">10</text>
+    </pattern>
+    
+    <!-- Gradient Text -->
+    <linearGradient id="cmdGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FF00;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00FF88;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00FF00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- ===== BACKGROUND ===== -->
+  <rect width="1000" height="380" rx="15" fill="url(#termBg)"/>
+  <rect width="1000" height="380" rx="15" fill="url(#matrixRain)"/>
+  <rect width="1000" height="380" rx="15" fill="url(#scanlines)"/>
+  
+  <!-- Ambient Glow -->
+  <ellipse cx="500" cy="190" rx="450" ry="150" fill="#00FF00" opacity="0.02" filter="url(#ultraGlow)"/>
+  <ellipse cx="500" cy="190" rx="300" ry="100" fill="#00FF88" opacity="0.01" filter="url(#ultraGlow)"/>
+  
+  <!-- ===== TERMINAL FRAME ===== -->
+  <!-- Outer Border with Glow -->
+  <rect x="15" y="15" width="970" height="350" rx="12" fill="none" stroke="#00FF00" stroke-width="2" opacity="0.2" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="20" y="20" width="960" height="340" rx="10" fill="none" stroke="#00FF00" stroke-width="0.5" opacity="0.1"/>
+  
+  <!-- ===== WINDOW HEADER ===== -->
+  <!-- Header Bar -->
+  <rect x="20" y="20" width="960" height="40" rx="10" fill="#00FF00" opacity="0.03"/>
+  <rect x="20" y="40" width="960" height="20" fill="#00FF00" opacity="0.02"/>
+  
+  <!-- Window Controls -->
+  <circle cx="45" cy="40" r="8" fill="#FF3333" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="40" r="8" fill="#FFCC00" opacity="0.8"/>
+  <circle cx="95" cy="40" r="8" fill="#33FF33" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Header Title -->
+  <text x="500" y="45" font-family="'Courier New', monospace" font-size="12" 
+        fill="#00FF00" text-anchor="middle" opacity="0.25" letter-spacing="3">
+    ─── MDSYA@SECURITY:~/cyber-ops ───
+  </text>
+  
+  <!-- Header Right Icons -->
+  <text x="900" y="45" font-family="'Courier New', monospace" font-size="10" fill="#00FF00" opacity="0.15">[●]</text>
+  
+  <!-- ===== MAIN ASCII ART ===== -->
+  <g font-family="'Courier New', monospace" filter="url(#softGlow)">
+    <!-- MDSYA ASCII with Enhanced Colors -->
+    
+    <!-- Row 1 -->
+    <text x="50" y="85" fill="#00FF00" opacity="0.95" font-size="13" font-weight="bold">███████╗ ██████╗ ███████╗██╗  ██╗</text>
+    <text x="560" y="85" fill="#00FF88" opacity="0.5" font-size="11">$ whoami</text>
+    
+    <!-- Row 2 -->
+    <text x="50" y="105" fill="#39FF14" opacity="0.9" font-size="13" font-weight="bold">╚══███╔╝██╔════╝ ██╔════╝██║  ██║</text>
+    <text x="560" y="105" fill="#00FF88" opacity="0.85" font-size="12">  ⚡ MDSYA - Cyber Security Engineer</text>
+    
+    <!-- Row 3 -->
+    <text x="50" y="125" fill="#00FF00" opacity="0.95" font-size="13" font-weight="bold">  ███╔╝ ██║  ███╗███████╗███████║</text>
+    <text x="560" y="125" fill="#00FF88" opacity="0.5" font-size="11">$ pwd</text>
+    
+    <!-- Row 4 -->
+    <text x="50" y="145" fill="#39FF14" opacity="0.9" font-size="13" font-weight="bold"> ███╔╝  ██║   ██║╚════██║██╔══██║</text>
+    <text x="560" y="145" fill="#00FF88" opacity="0.85" font-size="12">  /opt/security/operations</text>
+    
+    <!-- Row 5 -->
+    <text x="50" y="165" fill="#00FF00" opacity="0.95" font-size="13" font-weight="bold">███████╗╚██████╔╝███████║██║  ██║</text>
+    <text x="560" y="165" fill="#00FF88" opacity="0.5" font-size="11">$ tools</text>
+    
+    <!-- Row 6 -->
+    <text x="50" y="185" fill="#39FF14" opacity="0.9" font-size="13" font-weight="bold">╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝</text>
+    
+    <!-- Tools List with Icons -->
+    <text x="560" y="185" fill="#00FF88" opacity="0.7" font-size="12">  🔧 Kali Linux  │  🔍 Metasploit</text>
+    <text x="700" y="185" fill="#00FF88" opacity="0.7" font-size="12">  📡 Wireshark  │  🎯 Burp Suite</text>
+    <text x="830" y="185" fill="#00FF88" opacity="0.7" font-size="12">  🌐 Nmap  │  🔑 Hydra</text>
+  </g>
+  
+  <!-- ===== DIVIDER ===== -->
+  <g opacity="0.15">
+    <line x1="50" y1="210" x2="950" y2="210" stroke="#00FF00" stroke-width="1"/>
+    <text x="50" y="225" font-family="'Courier New', monospace" font-size="9" fill="#00FF00" opacity="0.3">[STATUS]</text>
+  </g>
+  
+  <!-- ===== STATUS PANEL ===== -->
+  <g font-family="'Courier New', monospace">
+    <!-- Status Indicators with Pulses -->
+    
+    <!-- Status 1 -->
+    <circle cx="70" cy="250" r="5" fill="#00FF00" filter="url(#neonPulse)">
+      <animate attributeName="r" values="5;8;5" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="85" y="254" fill="#00FF00" opacity="0.5" font-size="11">● SYSTEM ONLINE</text>
+    
+    <!-- Status 2 -->
+    <circle cx="270" cy="250" r="5" fill="#00FF00" filter="url(#neonPulse)">
+      <animate attributeName="r" values="5;8;5" dur="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="285" y="254" fill="#00FF00" opacity="0.5" font-size="11">● SECURE CONNECTION</text>
+    
+    <!-- Status 3 -->
+    <circle cx="500" cy="250" r="5" fill="#00FF00" filter="url(#neonPulse)">
+      <animate attributeName="r" values="5;8;5" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="515" y="254" fill="#00FF00" opacity="0.5" font-size="11">● ENCRYPTION: AES-256</text>
+    
+    <!-- Status 4 -->
+    <circle cx="740" cy="250" r="5" fill="#00FF00" filter="url(#neonPulse)">
+      <animate attributeName="r" values="5;8;5" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="755" y="254" fill="#00FF00" opacity="0.5" font-size="11">● FIREWALL: ACTIVE</text>
+  </g>
+  
+  <!-- ===== TERMINAL INPUT ===== -->
+  <g font-family="'Courier New', monospace">
+    <!-- Input Line Background -->
+    <rect x="50" y="280" width="900" height="35" rx="5" fill="#00FF00" opacity="0.03"/>
+    
+    <!-- Prompt -->
+    <text x="65" y="303" fill="#00FF00" opacity="0.9" font-size="13" font-weight="bold">root@mdsya:~/cyber-ops$</text>
+    
+    <!-- Command with typing animation -->
+    <text x="310" y="303" fill="#00FF88" opacity="0.8" font-size="13">
+      sudo nmap -sS -A -T4 192.168.1.0/24
+      <animate attributeName="opacity" values="0.8;0.8;0;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Second command -->
+    <text x="310" y="303" fill="#00FF88" opacity="0">
+      sudo hydra -l admin -P rockyou.txt ssh://target
+      <animate attributeName="opacity" values="0;0;0.8;0.8;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Blinking Cursor -->
+    <rect x="670" y="292" width="14" height="20" fill="#00FF00" opacity="0.9" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="1;0;1" dur="0.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <!-- ===== BOTTOM STATUS BAR ===== -->
+  <g opacity="0.15">
+    <!-- Bottom Line -->
+    <line x1="50" y1="335" x2="950" y2="335" stroke="#00FF00" stroke-width="0.5"/>
+    
+    <!-- Left Status -->
+    <text x="65" y="355" font-family="'Courier New', monospace" font-size="9" fill="#00FF00">[NORMAL MODE]</text>
+    
+    <!-- Right Status -->
+    <text x="850" y="355" font-family="'Courier New', monospace" font-size="9" fill="#00FF00">[PID: 1337] [MEM: 4.2%]</text>
+    
+    <!-- Center Status -->
+    <text x="500" y="355" font-family="'Courier New', monospace" font-size="9" fill="#00FF00" text-anchor="middle">SECURE SHELL v3.2.1</text>
+  </g>
+  
+  <!-- ===== DECORATIVE GLITCH EFFECTS ===== -->
+  <g opacity="0.05">
+    <!-- Random Glitch Rectangles -->
+    <rect x="200" y="0" width="30" height="2" fill="#00FF00">
+      <animate attributeName="opacity" values="0;0.5;0" dur="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="600" y="380" width="50" height="2" fill="#00FF00">
+      <animate attributeName="opacity" values="0;0.5;0" dur="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="800" y="100" width="20" height="2" fill="#00FF00">
+      <animate attributeName="opacity" values="0;0.5;0" dur="0.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <!-- ===== CORNER DECORATIONS ===== -->
+  <g opacity="0.3">
+    <!-- Top Left -->
+    <path d="M25,30 L25,50 M25,30 L45,30" stroke="#00FF00" stroke-width="2" fill="none" filter="url(#softGlow)"/>
+    <path d="M28,33 L28,47 M28,33 L42,33" stroke="#00FF00" stroke-width="0.5" fill="none" opacity="0.3"/>
+    
+    <!-- Top Right -->
+    <path d="M975,30 L975,50 M975,30 L955,30" stroke="#00FF00" stroke-width="2" fill="none" filter="url(#softGlow)"/>
+    <path d="M972,33 L972,47 M972,33 L958,33" stroke="#00FF00" stroke-width="0.5" fill="none" opacity="0.3"/>
+    
+    <!-- Bottom Left -->
+    <path d="M25,350 L25,330 M25,350 L45,350" stroke="#00FF00" stroke-width="2" fill="none" filter="url(#softGlow)"/>
+    <path d="M28,347 L28,333 M28,347 L42,347" stroke="#00FF00" stroke-width="0.5" fill="none" opacity="0.3"/>
+    
+    <!-- Bottom Right -->
+    <path d="M975,350 L975,330 M975,350 L955,350" stroke="#00FF00" stroke-width="2" fill="none" filter="url(#softGlow)"/>
+    <path d="M972,347 L972,333 M972,347 L958,347" stroke="#00FF00" stroke-width="0.5" fill="none" opacity="0.3"/>
+  </g>
+</svg>
 ---
 
 ## 🚀 MDSYA-SEC  
