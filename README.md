@@ -1,14 +1,13 @@
-<img width="1000" height="380" alt="mdsya_terminal_banner_fixed (1)" src="https://github.com/user-attachments/assets/46bdf2ce-822d-42fd-b0fd-20d3bf26909b" />
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207C0A&width=435&lines=Hi+everyone%2C+I'm+Mdsya+%F0%9F%91%8B;%7C%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Cyber+Security+Analyst+%7C;%7C%F0%9F%9B%A1%EF%B8%8F+Security+Engineer+%7C;%7C%F0%9F%8E%AF+Ethical+Hacker%7C)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmmsdyamil29-del&color=00FF00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmmsdyamil29-del)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mhmmdsyamill_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat&logo=vercel&logoColor=white)](https://mhmmsdyamil29-del.com)
-
+---
+<img width="1000" height="380" alt="mdsya_terminal_banner_fixed (1)" src="https://github.com/user-attachments/assets/46bdf2ce-822d-42fd-b0fd-20d3bf26909b" />
 
 ---
 ## 🚀 MDSYA-SEC  
@@ -25,7 +24,6 @@
 ## 🛠️ Security Tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
