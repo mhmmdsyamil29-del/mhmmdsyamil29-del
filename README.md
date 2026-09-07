@@ -11,7 +11,6 @@
 
 ---
 ## 🚀 MDSYA-SEC  
-### **MDSYA**  
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-🛡️-0A0A0A?style=for-the-badge&logo=security&logoColor=00FF00&labelColor=black&color=00FF00)
 ![Pentesting](https://img.shields.io/badge/Penetration_Testing-🎯-black?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black&color=FF0000)
 ![Security](https://img.shields.io/badge/Security_Research-🔍-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00BFFF)
