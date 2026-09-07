@@ -1,3 +1,4 @@
+![Uploading deepseek_svg_20260907_073c49.svg…]()
 # Hi there, I'm  Mdsya 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmmsdyamil29-del&color=00FF00)
@@ -8,9 +9,7 @@
 ---
 
 ## ⚡ MDSYA-SEC  
-<p align="center">
-  <img src="https://github.com/mhmmsdyamil29-del/mhmmsdyamil29-del/blob/main/terminal-pro.svg?raw=true" width="100%" />
-</p>
+deepseek_svg_20260907_073c49.svg
 ---
 
 ## 🚀 MDSYA-SEC  
