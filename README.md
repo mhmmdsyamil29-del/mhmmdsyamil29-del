@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/mhmmsdyamil29-del/mhmmsdyamil29-del/blob/main/deepseek_svg_20260907_073c49.svg?raw=true" width="100%" />
+</p>
+
+---
 
 # Hi there, I'm  Mdsya 👋
 
@@ -5,15 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmmsdyamil29-del)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mhmmdsyamill_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF00?style=flat&logo=vercel&logoColor=white)](https://mhmmsdyamil29-del.com)
-
----
-
-## ⚡ MDSYA-SEC  
-<p align="center">
-  <img src="https://github.com/mhmmsdyamil29-del/mhmmsdyamil29-del/blob/main/deepseek_svg_20260907_073c49.svg?raw=true" width="100%" />
-</p>
-
----
 
 
 ---
