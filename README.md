@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/mhmmsdyamil29-del/mhmmsdyamil29-del/blob/main/deepseek_svg_20260907_073c49.svg?raw=true" width="100%" />
-</p>
+</p><img width="1000" height="380" alt="deepseek_svg_20260907_073c49" src="https://github.com/user-attachments/assets/3d1705a8-dcab-41bf-9d11-0b37b86f0c1f" />
+
 
 ---
 
