@@ -19,7 +19,7 @@
 <img width="1000" height="380" alt="mdsya_terminal_banner_fixed (1)" src="https://github.com/user-attachments/assets/46bdf2ce-822d-42fd-b0fd-20d3bf26909b" />
 
 ---
-## 🚀 MDSYA-SEC  
+## 👽 drx-SEC  
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-🛡️-0A0A0A?style=for-the-badge&logo=security&logoColor=00FF00&labelColor=black&color=00FF00)
 ![Pentesting](https://img.shields.io/badge/Penetration_Testing-🎯-black?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black&color=FF0000)
 ![Security](https://img.shields.io/badge/Security_Research-🔍-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00BFFF)
