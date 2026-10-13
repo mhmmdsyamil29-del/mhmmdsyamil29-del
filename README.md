@@ -19,6 +19,24 @@
 <img width="1000" height="380" alt="mdsya_terminal_banner_fixed (1)" src="https://github.com/user-attachments/assets/46bdf2ce-822d-42fd-b0fd-20d3bf26909b" />
 
 ---
+
+## 🧑‍💻 About Me
+
+Hello! I'm  a **Informatics Engineering student at Universitas Pancasila** with a strong passion for **Cyber Security**.
+
+I focus on learning how systems can be protected from cyber attacks, ranging from **vulnerability analysis**, **penetration testing**, to **system hardening**. I believe that cyber security is not just about attacking, but also about **protecting** and **building safer systems**.
+
+### 🔐 Areas I Specialize In
+- 🛡️ **Web Security** — SQL Injection, XSS, CSRF, and OWASP Top 10
+- 🌐 **Network Security** — Sniffing, Scanning, Firewall, IDS/IPS
+- 🦠 **Malware Analysis** — Static & Dynamic Analysis
+- 🔑 **Cryptography** — Encryption, Hashing, Digital Signature
+- 🎯 **Penetration Testing** — Reconnaissance, Exploitation, Reporting
+
+### 🎯 My Goal
+To become a professional **Ethical Hacker** who contributes to creating a secure digital ecosystem, both nationally and internationally.
+---
+
 ## 👽 drx-SEC  
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-🛡️-0A0A0A?style=for-the-badge&logo=security&logoColor=00FF00&labelColor=black&color=00FF00)
 ![Pentesting](https://img.shields.io/badge/Penetration_Testing-🎯-black?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black&color=FF0000)
@@ -26,23 +44,6 @@
 
 👨‍💻 **Cyber Security Analyst** | 🎯 **Ethical Hacker** | 🛡️ **Security Engineer**  
 🔐 **Expertise:** Web Security | Network Security | Malware Analysis | Cryptography
-
----
-
-## 🧑‍💻 Tentang Saya
-
-Halo! Saya **Muhammad Syamil** — seorang mahasiswa **Teknik Informatika Universitas Pancasila** yang memiliki ketertarikan besar di bidang **Cyber Security** dan **Web Development**.
-
-Saya senang mengeksplorasi bagaimana sistem bekerja, mencari celah keamanan, dan membangun solusi digital yang aman serta efisien. Saat ini saya mendalami:
-
-- 🛡️ **Keamanan Siber** — penetration testing, network security, dan malware analysis
-- 🌐 **Web Development** — HTML, CSS, dan dasar-dasar pengembangan front-end
-- 💻 **Pemrograman** — Java, Python, dan scripting dasar
-- 🎨 **Desain** — antarmuka yang bersih, modern, dan responsif
-
-> *"Security is not a product, but a process."* — Bruce Schneier
-
-Melalui proyek **Arunika Studio** dan eksplorasi di dunia **drx-SEC**, saya terus belajar membangun dan mengamankan dunia digital, satu langkah kecil setiap harinya. 🚀
 
 ---
 
