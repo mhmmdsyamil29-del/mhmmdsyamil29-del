@@ -36,7 +36,6 @@ I focus on learning how systems can be protected from cyber attacks, ranging fro
 ### 🎯 My Goal
 To become a professional **Ethical Hacker** who contributes to creating a secure digital ecosystem, both nationally and internationally.
 ---
-https://github.com/user-attachments/assets/dd53aa62-3f5e-4792-a9e3-5d0c0011e0a9
 
 ## 👽 drx-SEC  
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-🛡️-0A0A0A?style=for-the-badge&logo=security&logoColor=00FF00&labelColor=black&color=00FF00)
