@@ -59,6 +59,8 @@ To become a professional **Ethical Hacker** who contributes to creating a secure
 ![theHarvester](https://img.shields.io/badge/theHarvester-8B0000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Responder](https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-0A4D8C?style=for-the-badge&logoColor=white)
+![Sherlock](https://img.shields.io/badge/Sherlock-1E90FF?style=for-the-badge&logoColor=white)
+
 ---
 
 
