@@ -53,7 +53,12 @@ To become a professional **Ethical Hacker** who contributes to creating a secure
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-
+![Sql Injection](https://img.shields.io/badge/SQL_Injection-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00)
+![Katana](https://img.shields.io/badge/Katana-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00)
+![Subfinder](https://img.shields.io/badge/subfinder-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![theHarvester](https://img.shields.io/badge/theHarvester-8B0000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-0A4D8C?style=for-the-badge&logoColor=white)
 ---
 
 
