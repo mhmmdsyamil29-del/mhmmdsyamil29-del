@@ -29,6 +29,23 @@
 
 ---
 
+## 🧑‍💻 Tentang Saya
+
+Halo! Saya **Muhammad Syamil** — seorang mahasiswa **Teknik Informatika Universitas Pancasila** yang memiliki ketertarikan besar di bidang **Cyber Security** dan **Web Development**.
+
+Saya senang mengeksplorasi bagaimana sistem bekerja, mencari celah keamanan, dan membangun solusi digital yang aman serta efisien. Saat ini saya mendalami:
+
+- 🛡️ **Keamanan Siber** — penetration testing, network security, dan malware analysis
+- 🌐 **Web Development** — HTML, CSS, dan dasar-dasar pengembangan front-end
+- 💻 **Pemrograman** — Java, Python, dan scripting dasar
+- 🎨 **Desain** — antarmuka yang bersih, modern, dan responsif
+
+> *"Security is not a product, but a process."* — Bruce Schneier
+
+Melalui proyek **Arunika Studio** dan eksplorasi di dunia **drx-SEC**, saya terus belajar membangun dan mengamankan dunia digital, satu langkah kecil setiap harinya. 🚀
+
+---
+
 ## 🛠️ Security Tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
